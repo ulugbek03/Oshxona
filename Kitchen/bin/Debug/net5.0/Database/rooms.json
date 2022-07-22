@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "SAP",
+    "RoomType": 2,
+    "Width": 5.0,
+    "Height": 4.0
+  },
+  {
+    "Id": 2,
+    "Name": "AutoDesk",
+    "RoomType": 1,
+    "Width": 5.0,
+    "Height": 4.0
+  }
+]

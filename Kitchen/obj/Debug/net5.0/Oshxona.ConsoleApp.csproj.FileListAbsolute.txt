@@ -1,0 +1,60 @@
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfo.cs
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.exe
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.deps.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.dev.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Oshxona.ConsoleApp.pdb
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\bin\Debug\net5.0\Sharprompt.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CopyComplete
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\refint\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.pdb
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Oshxona.ConsoleApp.genruntimeconfig.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\ref\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfo.cs
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\refint\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.pdb
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.exe
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.deps.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.dev.json
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.pdb
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\bin\Debug\net5.0\Sharprompt.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CopyComplete
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.genruntimeconfig.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Kitchen\obj\Debug\net5.0\ref\Oshxona.ConsoleApp.dll
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.exe
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.deps.json
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.json
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.runtimeconfig.dev.json
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.dll
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Oshxona.ConsoleApp.pdb
+G:\Oshxona\Kitchen\bin\Debug\net5.0\ConsoleTables.dll
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Oshxona\Kitchen\bin\Debug\net5.0\Sharprompt.dll
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.AssemblyReference.cache
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfoInputs.cache
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.AssemblyInfo.cs
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.csproj.CopyComplete
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.dll
+G:\Oshxona\Kitchen\obj\Debug\net5.0\refint\Oshxona.ConsoleApp.dll
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.pdb
+G:\Oshxona\Kitchen\obj\Debug\net5.0\Oshxona.ConsoleApp.genruntimeconfig.cache
+G:\Oshxona\Kitchen\obj\Debug\net5.0\ref\Oshxona.ConsoleApp.dll

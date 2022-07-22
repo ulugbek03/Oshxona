@@ -1,0 +1,28 @@
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.exe
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.deps.json
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.runtimeconfig.json
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.runtimeconfig.dev.json
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Hotel.ConsoleApp.pdb
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.AssemblyInfo.cs
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.csproj.CopyComplete
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\refint\Hotel.ConsoleApp.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.pdb
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.genruntimeconfig.cache
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\obj\Debug\net5.0\ref\Hotel.ConsoleApp.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\O'tkirbek\Desktop\Hotel\Hotel.ConsoleApp\bin\Debug\net5.0\Sharprompt.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.AssemblyInfo.cs
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\refint\Hotel.ConsoleApp.dll
+C:\Users\keldi\OneDrive\Ishchi stol\Oshxona\Hotel.ConsoleApp\obj\Debug\net5.0\Hotel.ConsoleApp.pdb

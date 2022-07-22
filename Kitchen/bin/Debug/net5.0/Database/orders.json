@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "ClientId": 2,
+    "RoomId": 1,
+    "Money": 300000.0,
+    "RegistrationDate": "2022-06-08T10:47:25.5178678+05:00",
+    "OrderDays": 2
+  },
+  {
+    "Id": 2,
+    "ClientId": 1,
+    "RoomId": 2,
+    "Money": 600000.0,
+    "RegistrationDate": "2022-05-09T12:37:25.5178678+05:00",
+    "OrderDays": 7
+  }
+]

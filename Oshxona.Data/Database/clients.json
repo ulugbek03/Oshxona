@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Jahongir",
+    "LastName": "Oripov",
+    "PhoneNumber": "+998995999393"
+  }
+  ,
+  {
+    "Id": 2,
+    "FirstName": "Shavkat",
+    "LastName": "Sirojov",
+    "PhoneNumber": "+998932280269"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Ulug'bek",
+    "LastName": "Keldibekov",
+    "PhoneNumber": "+998932925559"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Botirali",
+    "LastName": "Rahmonberdiyev",
+    "PhoneNumber": "+998901313126"
+  }
+]
